@@ -4,4 +4,4 @@ pandas
 matplotlib
 tensorflow
 seaborn
-sklearn
+scikit-learn
